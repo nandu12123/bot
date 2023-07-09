@@ -1,0 +1,15 @@
+{
+	"client": {
+		"host": "https://aternos.org/server/",
+		"port": "babehcamp.aternos.me:49791",
+		"username": "babehXP"
+	},
+	
+	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
+	"logLevel": ["error", "log", "debug"],
+	"action": {
+		"commands": ["forward", "back", "left", "right", "jump"],
+		"holdDuration": 5000,
+		"retryDelay": 15000
+	}
+}
